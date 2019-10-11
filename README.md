@@ -174,7 +174,7 @@ bark { "Oki" }
 
 - *give me answer*
 
-### What is the result of the following:
+#### What is the result of the following:
 
 ```ruby
 teams = [['greg', 'bob']]
